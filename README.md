@@ -18,6 +18,8 @@ Download 1,200 synthetically generated live contactless fingerprints along with 
 
 The trained weights for both models, BicycleGAN-based one-to-many translation model for multiple impressions, and the weights corresponding to all 5 spoof materials, are available at:
 
+**Download link:**
+
 
 
 
