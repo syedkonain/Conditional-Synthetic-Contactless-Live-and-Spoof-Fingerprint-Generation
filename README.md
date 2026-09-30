@@ -16,11 +16,9 @@ https://drive.google.com/drive/folders/1W5rR4N505jppunWSl8vMIr6mg1O2Hl2v?usp=sha
 
 ## Pretrained Model Weights
 
-The trained weights for both models, BicycleGAN-based one-to-many translation model for multiple impressions, and the weights corresponding to all 5 spoof materials, are available at:
+The trained weights for both models, BicycleGAN-based multiple impressions generator, and the weights corresponding to 5 spoof materials, are available at:
 
-**Download link:**
-
-
+https://drive.google.com/drive/folders/1r10OJ6P4vLTdK-kUH38il5NrRDUdWsCX?usp=sharing
 
 
 
